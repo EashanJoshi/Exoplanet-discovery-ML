@@ -1,1 +1,1 @@
-# Exoplanet-discovery-through-ML
+# Exoplanet-discovery-ML
